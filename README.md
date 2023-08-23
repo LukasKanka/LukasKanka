@@ -1,5 +1,5 @@
  👋
- # Rozcestník Lukáše Kaňky na tomto GitHub profilu
+# Rozcestník Lukáše Kaňky na tomto GitHub profilu
 
 **Něco málo o mně:**
 
@@ -23,7 +23,18 @@ Cypress.
 
 [Matodon](https://mastodon.arch-linux.cz/@Kankys)
 
-**Seznam ropozitářů**
+**Mé nejoblíbenější IDE:**
+1. JetBrains Aqua
+2. VSCode
+3. Visual Studio 2022
+4. JetBrains IntelliJ IDEA
+
+**Na čem pracuji:**
+1. Lenovo ThinBook 14ADA --> Windows
+2. MacBookPro 2015
+3. HP NB --> Ubuntu, EndeavourOS
+
+**Seznam mých ropozitářů automatizované testování**
 
 Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Většina repozitářů se týká automatizovaného testování. V seznamu najdeš jen mé projekty které jsem sám dělat od nuly. Ostatní repozitáře jsou většinou volně přístupná videa z YouTube. Private repozitáře jsou většinou placené kurzy, kde je zákaz jejich sdílení.
 
@@ -39,11 +50,32 @@ C# (NUnit, MSTest, xUnit)
 
 [xUnit.NET](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/xUnit.NET)--> Automatizované testování v Frameworku xUnit
 
+Playwright
+
+[PWLukTS](https://github.com/LukasKanka/Playwright_TS/tree/main/PWLukTS)--> Playwright + TypeScript automatizované testy na mém [blogu](https://lukan.cz/) kde používám page objects
+
+[lukanPlaywright](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanPlaywright)--> Playwright + Java automatizované testy na mém [blogu](https://lukan.cz/)
+
+[Lukan/.idea](https://github.com/LukasKanka/Playwright_Python/tree/main/Lukan/.idea)--> Playwright + Python Java automatizované testy na mém [blogu](https://lukan.cz/)
+
+[PWlkPY](https://github.com/LukasKanka/Playwright_Python/tree/main/PWlkPY)--> Playwright + Python Java automatizované testy na mém [blogu](https://lukaskanka.cz/)
+
+[PW_ZiveTS](https://github.com/LukasKanka/Playwright_TS/tree/main/PW_ZiveTS)--> Playwright + TypeScript automatizované testování na webu [zive](https://www.zive.cz/)
+
+Cypress
+
+[CY_Auta_TS](https://github.com/LukasKanka/Cypress_TS/tree/main/CY_Auta_TS)--> Cypress + TypeScript domácí úkol při ucházení se o zaměstnání
+[CyLukTs/lukan](https://github.com/LukasKanka/Cypress_TS/tree/main/CyLukTs/lukan)--> Cypress + TypeScript automatizované testy na mém [blogu](https://lukan.cz/)
+
 Java (Selenium, Selenide)
 
 [lukanSelenide](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenide)--> Selenide + Java automatizované testy na mém [blogu](https://lukan.cz/)
 
 [lukanSelenideCucumber](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenideCucumber)--> Selenide + Cucumber + Java automatizované testy na mém [blogu](https://lukan.cz/)
+
+Tutorials
+
+[Tutorials](https://github.com/LukasKanka/Tutorials)--> Mé tutoriály a poznatky z testování a jiných odvětví IT.
 
 
 <!--

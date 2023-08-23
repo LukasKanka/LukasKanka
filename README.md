@@ -39,6 +39,13 @@ C# (NUnit, MSTest, xUnit)
 
 [xUnit.NET](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/xUnit.NET)--> Automatizované testování v Frameworku xUnit
 
+Java (Selenium, Selenide)
+
+[lukanSelenide](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenide)--> Selenide + Java automatizované testy na mém [blogu](https://lukan.cz/)
+
+[lukanSelenideCucumber](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenideCucumber)--> Selenide + Cucumber + Java automatizované testy na mém [blogu](https://lukan.cz/)
+
+
 <!--
 **LukasKanka/LukasKanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

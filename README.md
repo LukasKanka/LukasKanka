@@ -1,7 +1,7 @@
  👋
 # Rozcestník Lukáše Kaňky na tomto GitHub profilu
 
-**Něco málo o mně:**
+**##Něco málo o mně:**
 
 Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Propadl jsem testingu, kde jsem začal s manuálním testováním, ale více mě baví nástroje umožňující automatizaci, především Playwright. Vzdělávám se v dalších frameworcích umožňující automatizaci:
 
@@ -13,7 +13,7 @@ NUnit + C#,
 
 Cypress.
 
-**Kde všude mě najdete:**
+**##Kde všude mě najdete:**
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
@@ -23,22 +23,22 @@ Cypress.
 
 [Matodon](https://mastodon.arch-linux.cz/@Kankys)
 
-**Mé nejoblíbenější IDE:**
+**##Mé nejoblíbenější IDE:**
 1. JetBrains Aqua
 2. VSCode
 3. Visual Studio 2022
 4. JetBrains IntelliJ IDEA
 
-**Na čem pracuji:**
+**##Na čem pracuji:**
 1. Lenovo ThinBook 14ADA --> Windows
 2. MacBookPro 2015
 3. HP NB --> Ubuntu, EndeavourOS
 
-**Seznam mých ropozitářů automatizované testování**
+**##Seznam mých ropozitářů automatizované testování**
 
 Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Většina repozitářů se týká automatizovaného testování. V seznamu najdeš jen mé projekty které jsem sám dělat od nuly. Ostatní repozitáře jsou většinou volně přístupná videa z YouTube. Private repozitáře jsou většinou placené kurzy, kde je zákaz jejich sdílení.
 
-C# (NUnit, MSTest, xUnit)
+###C# (NUnit, MSTest, xUnit)
 
 [GoogleNUnitProject](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/GoogleNUnitProject)--> Zde testuji své dovednosti na vyhledávači Google
 
@@ -50,7 +50,7 @@ C# (NUnit, MSTest, xUnit)
 
 [xUnit.NET](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/xUnit.NET)--> Automatizované testování v Frameworku xUnit
 
-Playwright
+###Playwright
 
 [PWLukTS](https://github.com/LukasKanka/Playwright_TS/tree/main/PWLukTS)--> Playwright + TypeScript automatizované testy na mém [blogu](https://lukan.cz/) kde používám page objects
 
@@ -62,7 +62,7 @@ Playwright
 
 [PW_ZiveTS](https://github.com/LukasKanka/Playwright_TS/tree/main/PW_ZiveTS)--> Playwright + TypeScript automatizované testování na webu [zive](https://www.zive.cz/)
 
-Cypress
+###Cypress
 
 [CY_Auta_TS](https://github.com/LukasKanka/Cypress_TS/tree/main/CY_Auta_TS)--> Cypress + TypeScript domácí úkol při ucházení se o zaměstnání
 [CyLukTs/lukan](https://github.com/LukasKanka/Cypress_TS/tree/main/CyLukTs/lukan)--> Cypress + TypeScript automatizované testy na mém [blogu](https://lukan.cz/)
@@ -73,7 +73,7 @@ Java (Selenium, Selenide)
 
 [lukanSelenideCucumber](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenideCucumber)--> Selenide + Cucumber + Java automatizované testy na mém [blogu](https://lukan.cz/)
 
-Tutorials
+###Tutorials
 
 [Tutorials](https://github.com/LukasKanka/Tutorials)--> Mé tutoriály a poznatky z testování a jiných odvětví IT.
 

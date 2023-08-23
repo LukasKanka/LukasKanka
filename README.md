@@ -1,7 +1,7 @@
  👋
 # Rozcestník Lukáše Kaňky na tomto GitHub profilu
 
-**##Něco málo o mně:**
+##Něco málo o mně:
 
 Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Propadl jsem testingu, kde jsem začal s manuálním testováním, ale více mě baví nástroje umožňující automatizaci, především Playwright. Vzdělávám se v dalších frameworcích umožňující automatizaci:
 
@@ -13,7 +13,7 @@ NUnit + C#,
 
 Cypress.
 
-**##Kde všude mě najdete:**
+##Kde všude mě najdete:
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
@@ -23,18 +23,18 @@ Cypress.
 
 [Matodon](https://mastodon.arch-linux.cz/@Kankys)
 
-**##Mé nejoblíbenější IDE:**
+##Mé nejoblíbenější IDE:
 1. JetBrains Aqua
 2. VSCode
 3. Visual Studio 2022
 4. JetBrains IntelliJ IDEA
 
-**##Na čem pracuji:**
+##Na čem pracuji:
 1. Lenovo ThinBook 14ADA --> Windows
 2. MacBookPro 2015
 3. HP NB --> Ubuntu, EndeavourOS
 
-**##Seznam mých ropozitářů automatizované testování**
+##Seznam mých ropozitářů automatizované testování
 
 Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Většina repozitářů se týká automatizovaného testování. V seznamu najdeš jen mé projekty které jsem sám dělat od nuly. Ostatní repozitáře jsou většinou volně přístupná videa z YouTube. Private repozitáře jsou většinou placené kurzy, kde je zákaz jejich sdílení.
 

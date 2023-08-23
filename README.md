@@ -23,6 +23,8 @@ Cypress.
 
 [Matodon](https://mastodon.arch-linux.cz/@Kankys)
 
+[Můj blog](https://lukan.cz/)
+
 ## Mé nejoblíbenější IDE:
 1. JetBrains Aqua
 2. VSCode

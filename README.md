@@ -44,7 +44,7 @@ Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Vět�
 
 [GoogleNUnitProject](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/GoogleNUnitProject)--> Zde testuji své dovednosti na vyhledávači Google
 
-[LukanNUnitProject](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/LukanNUnitProject)--> Zde píši automatizované testy na mém [blogu](https://lukan.cz/)
+[LukanNUnitProject](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/LukanNUnitProject)--> Zde píši automatizované testy na mém [blogu](https://lukan.cz/) a také používám Page Object
 
 [Testing_Ubuntu](Testing_Ubuntu)--> Testování C# a .Net v Ubuntu
 

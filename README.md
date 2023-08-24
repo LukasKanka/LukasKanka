@@ -71,7 +71,7 @@ Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Vět�
 
 ### Java (Selenium, Selenide)
 
-[lukanSelenide](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenide)--> Selenide + Java automatizované testy na mém [blogu](https://lukan.cz/)
+[lukanSelenide](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenide)--> Selenide + Java automatizované testy na mém [blogu](https://lukan.cz/) kde používám page object
 
 [lukanSelenideCucumber](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenideCucumber)--> Selenide + Cucumber + Java automatizované testy na mém [blogu](https://lukan.cz/)
 

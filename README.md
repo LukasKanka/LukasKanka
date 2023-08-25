@@ -67,6 +67,7 @@ Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Vět�
 ### Cypress
 
 [CY_Auta_TS](https://github.com/LukasKanka/Cypress_TS/tree/main/CY_Auta_TS)--> Cypress + TypeScript domácí úkol při ucházení se o zaměstnání
+
 [CyLukTs/lukan](https://github.com/LukasKanka/Cypress_TS/tree/main/CyLukTs/lukan)--> Cypress + TypeScript automatizované testy na mém [blogu](https://lukan.cz/)
 
 ### Java (Selenium, Selenide)

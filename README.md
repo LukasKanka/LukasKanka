@@ -17,8 +17,6 @@ Cypress.
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
-[Facebook](https://www.facebook.com/Kankys81)
-
 [BlueSky](https://bsky.app/profile/kankys.bsky.social)
 
 [Matodon](https://mastodon.arch-linux.cz/@Kankys)
@@ -32,6 +30,18 @@ Cypress.
 2. VSCode
 3. Visual Studio 2022
 4. JetBrains IntelliJ IDEA
+
+## Můj ostatní nejoblíbenější software:
+1. [Firefox](https://www.mozilla.org/cs/firefox/)
+2. [Atom](https://atom-editor.cc/) velmi výkonný opensource editor pro Windows, Linux a MacOS.
+3. [HedgeDoc](https://hedgedoc.org/) - Collaborative markdown editor.
+4. [Brackets](https://brackets.io/) nejlepší opensource HTML editor.
+5. [MiniFlux](https://miniflux.app/) opensource RSS čtečka.
+6. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
+7. [NextCloud](https://nextcloud.com/) opensource cloud se spoustou funkcí a textovým editorem.
+8. [Notepad++](https://notepad-plus-plus.org/) notepad s možností rozšíření pluginy pro testování xml, cvs či html. Povinost každého testera.
+9. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně. 
+
 
 ## Na čem pracuji:
 1. Lenovo ThinBook 14ADA --> Windows

@@ -19,7 +19,7 @@ Cypress.
 
 [BlueSky](https://bsky.app/profile/kankys.bsky.social)
 
-[Matodon](https://mastodon.arch-linux.cz/@Kankys)
+[Mastodon](https://mastodon.arch-linux.cz/@Kankys)
 
 [Gitea](https://git.archoslinux.cz/kankys) místo klonů mých repozitářů na opensource Gitea a serveru archlinux.cz
 

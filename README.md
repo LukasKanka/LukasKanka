@@ -60,7 +60,7 @@ Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Vět�
 
 [Testing_Ubuntu](Testing_Ubuntu)--> Testování C# a .Net v Ubuntu
 
-[ZiveNUnitProject](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/ZiveNUnitProject)--> Automatizované testování na webu [zive](https://www.zive.cz/)
+[ZiveNUnitProject](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/ZiveNUnitProject)--> Automatizované testování na webu [zive](https://www.zive.cz/) a také používám Page Object
 
 [xUnit.NET](https://github.com/LukasKanka/.Net_C.Sharp_Test/tree/main/xUnit.NET)--> Automatizované testování v Frameworku xUnit
 

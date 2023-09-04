@@ -24,6 +24,16 @@ Cypress.
 [Gitea](https://git.archoslinux.cz/kankys) místo klonů mých repozitářů na opensource řešení Gitea a serveru archlinux.cz
 
 [Můj blog](https://lukan.cz/)
+### Mé skupiny a kanály na Telegramu ###
+[Kankys bloguje](https://t.me/kankys_blog)
+
+[Kankys bloguje - skupina](https://t.me/kankys_bloguje)
+
+[Testeři](https://t.me/testeri_group)
+
+[Programátoři](https://t.me/programatori_group)
+
+
 
 ## Mé nejoblíbenější IDE:
 1. JetBrains Aqua / JetBrains Rider

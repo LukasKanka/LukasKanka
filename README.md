@@ -26,7 +26,7 @@ Cypress.
 [Můj blog](https://lukan.cz/)
 
 ## Mé nejoblíbenější IDE:
-1. JetBrains Aqua
+1. JetBrains Aqua / JetBrains Rider
 2. VSCode
 3. Visual Studio 2022
 4. JetBrains IntelliJ IDEA

@@ -24,7 +24,7 @@ Cypress.
 [Gitea](https://git.archoslinux.cz/kankys) místo klonů mých repozitářů na opensource řešení Gitea a serveru archlinux.cz
 
 [Můj blog](https://lukan.cz/)
-### Mé skupiny a kanály na Telegramu ###
+### Mé skupiny a kanály na Telegramu: ###
 [Kankys bloguje](https://t.me/kankys_blog)
 
 [Kankys bloguje - skupina](https://t.me/kankys_bloguje)

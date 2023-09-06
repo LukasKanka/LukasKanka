@@ -24,14 +24,13 @@ Cypress.
 [Gitea](https://git.archoslinux.cz/kankys) místo klonů mých repozitářů na opensource řešení Gitea a serveru archlinux.cz
 
 [Můj blog](https://lukan.cz/)
-### Mé skupiny a kanály na Telegramu: ###
-[Kankys bloguje](https://t.me/kankys_blog)
 
-[Kankys bloguje - skupina](https://t.me/kankys_bloguje)
+### Mé skupiny a kanály na Matrix.org ###
 
-[Testeři](https://t.me/testeri_group)
+[Testeři](https://matrix.to/#/#testeri:matrix.org) skupina věnovaná testingu
 
-[Programátoři](https://t.me/programatori_group)
+[Programátoři](https://matrix.to/#/#programatori:matrix.org) skupina věnovaná programování a všeho kolem IT.
+
 
 
 

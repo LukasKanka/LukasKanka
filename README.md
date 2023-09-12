@@ -15,7 +15,7 @@ Cypress.
 
 ## Kde všude mě najdete:
 
-[Digitalní zahrada](https://publish.obsidian.md/kankys-note/) můj poznámkový blog kde najdete všechny mé články, návody či myšlenky. Celý tento projekt vznikl na platformě Obsidian.
+[Digitalní Notes](https://publish.obsidian.md/kankys-note/) můj poznámkový notes kde najdete všechny mé články, návody či myšlenky. Celý tento projekt vznikl na platformě Obsidian.
 
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazi na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 

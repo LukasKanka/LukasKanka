@@ -15,6 +15,8 @@ Cypress.
 
 ## Kde všude mě najdete:
 
+[Digitalní zahrada](https://publish.obsidian.md/kankys-note/) můj poznámkový blog kde najdete všechny mé články, návody či myšlenky. Celý tento projekt vznikl na platformě Obsidian.
+
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazi na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
@@ -99,9 +101,7 @@ Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Vět�
 
 [lukanSelenideCucumber](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenideCucumber)--> Selenide + Cucumber + Java automatizované testy na mém [blogu](https://lukan.cz/)
 
-### Tutorials
 
-[Tutorials](https://github.com/LukasKanka/Tutorials)--> Mé tutoriály a poznatky z testování a jiných odvětví IT.
 
 
 <!--

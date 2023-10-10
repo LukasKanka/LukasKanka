@@ -31,11 +31,12 @@ Cypress.
 
 [Můj blog](https://lukan.cz/)
 
-### Skupiny a kanály kde jsem správce na Matrix.org a Telegramu ###
+### Skupiny a kanály kde jsem správce na Telegramu ###
 
 [Programátoři na Telegramu](https://t.me/programatori_group) --> kanál na síti Telegram, který založil Pavel Durov. Pavel Durov propaguje svobodu slova a jeho nejznámější moto je "Svoboda nebo smrt".
+[Craft Docs](https://t.me/+5bWp2-RpT9czMTlk)
 
-[Programátoři na Matrix.org](https://matrix.to/#/#programatori:matrix.org) skupina věnovaná programování a všeho kolem IT. Matrix.org je opensource platforma podobná Discordu. Najdete tu několik přehledně rozdělených kanálů, kde jemožné diskutovat nad mnoha tématy.
+
 
 
 

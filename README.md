@@ -31,9 +31,11 @@ Cypress.
 
 [Můj blog](https://lukan.cz/)
 
-### Skupiny a kanály kde jsem správce na Telegramu ###
+### Skupiny a kanály kde jsem správce na Telegramu: ###
 
 [Programátoři na Telegramu](https://t.me/programatori_group) --> kanál na síti Telegram, který založil Pavel Durov. Pavel Durov propaguje svobodu slova a jeho nejznámější moto je "Svoboda nebo smrt".
+
+[Testeři](https://t.me/+yptRYlS2KYlhOTM0) --> skupina Testeři na Telegramu.
 
 [Craft Docs](https://t.me/+5bWp2-RpT9czMTlk)
 

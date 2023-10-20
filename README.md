@@ -15,9 +15,9 @@ Cypress.
 
 ## Kde všude mě najdete:
 
-[Digitalní Notes](https://www.craft.me/s/Gx2Rhh07iMKxyh) můj poznámkový notes kde najdete všechny mé články, návody či myšlenky. Celý tento projekt vznikl na platformě Craft. A jako bonus nesbírá žádné cookies.
+[Můj blog](https://www.lukan.cz) můj blog o všem možném i nemožném.
 
-[Testing Docs](https://www.craft.me/s/mYD7MDPXpfkkok) místo kde si ukládám své poznatky s testingu.
+[Testing Docs](https://testing-docs.cz) místo kde si ukládám své poznatky s testingu.
 
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazi na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 

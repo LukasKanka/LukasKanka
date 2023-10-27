@@ -3,15 +3,11 @@
 
 ## Něco málo o mně:
 
-Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Propadl jsem testingu, kde jsem začal s manuálním testováním, ale více mě baví nástroje umožňující automatizaci, především Playwright. Vzdělávám se v dalších frameworcích umožňující automatizaci:
+Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie.
 
-Selenium,
+Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, kterou se učím ve frameworcích Playwright, Cypress. Rozšiřuji si znalosti také ve webových aplikacích jako např. React.
 
-Selenide + Java, 
-
-NUnit + C#,
-
-Cypress.
+Můj poslední Project který jsem teď začal v Reactu najdeš na [Testing Docs](https://lukaskanka.github.io/kanka/)
 
 ## Kde všude mě najdete:
 

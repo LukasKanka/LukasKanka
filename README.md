@@ -5,37 +5,20 @@
 
 Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie.
 
-Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, kterou se učím ve frameworcích Playwright, Cypress. Rozšiřuji si znalosti také ve webových aplikacích jako např. React.
+Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, kterou se učím ve frameworcích Playwright, Cypress. Rozšiřuji si znalosti také v HTML, CSS a ve webových aplikacích jako např. React.
 
-Můj poslední Project který jsem teď začal v Reactu najdeš na [Testing Docs](https://lukaskanka.github.io/kanka/)
 
 ## Kde všude mě najdete:
 
-[Můj blog](https://www.lukan.cz) můj blog o všem možném i nemožném.
+[Blog blog](https://www.lukaskanka.cz) můj blog který tvořím v HTML a CSS
+
+[Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 
 [Testing Docs](https://testing-docs.cz) místo kde si ukládám své poznatky s testingu.
 
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazi na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
-
-[BlueSky](https://bsky.app/profile/kankys.bsky.social)
-
-[Mastodon](https://mastodon.arch-linux.cz/@Kankys)
-
-[Gitea](https://git.archoslinux.cz/kankys) místo klonů mých repozitářů na opensource řešení Gitea a serveru archlinux.cz
-
-[Můj blog](https://lukan.cz/)
-
-### Skupiny a kanály kde jsem správce na Telegramu: ###
-
-[Programátoři na Telegramu](https://t.me/programatori_group) --> kanál na síti Telegram, který založil Pavel Durov. Pavel Durov propaguje svobodu slova a jeho nejznámější moto je "Svoboda nebo smrt".
-
-[Testeři](https://t.me/+yptRYlS2KYlhOTM0) --> skupina Testeři na Telegramu.
-
-[Craft Docs](https://t.me/+5bWp2-RpT9czMTlk)
-
-
 
 
 
@@ -62,6 +45,11 @@ Můj poslední Project který jsem teď začal v Reactu najdeš na [Testing Docs
 1. Lenovo ThinBook 14ADA --> Windows
 2. MacBookPro 2015
 3. HP NB --> Ubuntu, EndeavourOS
+
+## Seznam mých ropozitářů na tworbu webů a webových aplikací
+
+Můj poslední Project který jsem teď začal v Reactu najdeš na [Testing Docs](https://github.com/LukasKanka/kanka)  odkaz na [náhled](https://lukaskanka.github.io/kanka/)
+
 
 ## Seznam mých ropozitářů automatizované testování
 

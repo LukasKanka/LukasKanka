@@ -5,8 +5,7 @@
 
 Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie.
 
-Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, kterou se učím ve frameworcích Playwright, Cypress. Rozšiřuji si znalosti také v HTML, CSS a ve webových aplikacích jako např. React.
-
+Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, ve frameworcích Playwright, Cypress. Nyní si rozšiřuji znalosti v HTML a CSS, protože bych chtěl svou další kariéru nasměrovat k roli Front-End Developer.
 
 ## Kde všude mě najdete:
 

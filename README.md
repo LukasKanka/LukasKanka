@@ -1,13 +1,13 @@
  👋
-# Rozcestník Lukáše Kaňky na tomto GitHub profilu
+# 🛣️ Rozcestník Lukáše Kaňky na tomto GitHub profilu
 
-## Něco málo o mně:
+## 👨🏽‍💻 Něco málo o mně:
 
 Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie.
 
 Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, ve frameworcích Playwright, Cypress. Nyní si rozšiřuji znalosti v HTML a CSS, protože bych chtěl svou další kariéru nasměrovat k roli Front-End Developer.
 
-## Kde všude mě najdete:
+## 🔍 Kde všude mě najdete:
 
 [Blog blog](https://www.lukaskanka.cz) můj blog který tvořím v HTML a CSS
 
@@ -22,13 +22,13 @@ Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, ve fram
 
 
 
-## Mé nejoblíbenější IDE:
+## 💻 Mé nejoblíbenější IDE:
 1. JetBrains Aqua / JetBrains Rider
 2. VSCode
 3. Visual Studio 2022
 4. JetBrains IntelliJ IDEA
 
-## Můj ostatní nejoblíbenější software:
+## 📀 Můj ostatní nejoblíbenější software:
 1. [Firefox](https://www.mozilla.org/cs/firefox/)
 2. [Atom](https://atom-editor.cc/) velmi výkonný opensource editor pro Windows, Linux a MacOS.
 3. [HedgeDoc](https://hedgedoc.org/) - Collaborative markdown editor.
@@ -40,17 +40,21 @@ Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, ve fram
 9. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně. 
 
 
-## Na čem pracuji:
+## 🛠️ Na čem pracuji:
 1. Lenovo ThinBook 14ADA --> Windows
 2. MacBookPro 2015
 3. HP NB --> Ubuntu, EndeavourOS
 
-## Seznam mých ropozitářů na tworbu webů a webových aplikací
+## 📑 Seznam mých ropozitářů na tworbu webů a webových aplikací
+
+Můj blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
 
 Můj poslední Project který jsem teď začal v Reactu najdeš na [Testing Docs](https://github.com/LukasKanka/kanka)  odkaz na [náhled](https://lukaskanka.github.io/kanka/)
 
+Další repozitáře doplním, nebo se můžeš podívat sám co ještě není zde v seznamu 👁️
 
-## Seznam mých ropozitářů automatizované testování
+
+## 📑 Seznam mých ropozitářů automatizované testování
 
 Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Většina repozitářů se týká automatizovaného testování. V seznamu najdeš jen mé projekty které jsem sám dělat od nuly. Ostatní repozitáře jsou většinou volně přístupná videa z YouTube. Private repozitáře jsou většinou placené kurzy, kde je zákaz jejich sdílení.
 

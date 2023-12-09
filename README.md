@@ -25,10 +25,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 
 ## 💻 Mé nejoblíbenější IDE:
-1. JetBrains Aqua / JetBrains Rider
-2. VSCode
-3. Visual Studio 2022
-4. JetBrains IntelliJ IDEA
+1. VS Code
+2. JetBrains Rider
 
 ## 📀 Můj ostatní nejoblíbenější software:
 1. [Firefox](https://www.mozilla.org/cs/firefox/)

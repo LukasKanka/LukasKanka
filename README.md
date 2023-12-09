@@ -7,6 +7,8 @@ Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie
 
 Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, ve frameworcích Playwright, Cypress. Nyní si rozšiřuji znalosti v HTML a CSS, protože bych chtěl svou další kariéru nasměrovat k roli Front-End Developer.
 
+Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
+
 ## 🔍 Kde všude mě najdete:
 
 [Blog blog](https://www.lukaskanka.cz) můj blog který tvořím v HTML a CSS

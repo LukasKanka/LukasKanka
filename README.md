@@ -26,18 +26,15 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 💻 Mé nejoblíbenější IDE:
 1. VS Code
-2. JetBrains Rider
+2. Brackets
+3. JetBrains Rider
 
 ## 📀 Můj ostatní nejoblíbenější software:
-1. [Firefox](https://www.mozilla.org/cs/firefox/)
-2. [Atom](https://atom-editor.cc/) velmi výkonný opensource editor pro Windows, Linux a MacOS.
-3. [HedgeDoc](https://hedgedoc.org/) - Collaborative markdown editor.
-4. [Brackets](https://brackets.io/) nejlepší opensource HTML editor.
-5. [MiniFlux](https://miniflux.app/) opensource RSS čtečka.
-6. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
-7. [NextCloud](https://nextcloud.com/) opensource cloud se spoustou funkcí a textovým editorem.
-8. [Notepad++](https://notepad-plus-plus.org/) notepad s možností rozšíření pluginy pro testování xml, cvs či html. Povinost každého testera.
-9. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně. 
+1. [Vivaldi](https://www.mozilla.org/cs/firefox/)
+2. [Brackets](https://brackets.io/) nejlepší opensource HTML editor.
+3. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
+4. [NextCloud](https://nextcloud.com/) opensource cloud se spoustou funkcí a textovým editorem.
+5. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně. 
 
 
 ## 🛠️ Na čem pracuji:

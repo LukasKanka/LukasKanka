@@ -3,9 +3,7 @@
 
 ## 👨🏽‍💻 Něco málo o mně:
 
-Jsem IT nadšenec s pozitivním přístupem k životu a vášní pro technologie.
-
-Začal jsem s manuálním testováním, pak objevil kouzlo automatizace, ve frameworcích Playwright, Cypress. Nyní si rozšiřuji znalosti v HTML a CSS, protože bych chtěl svou další kariéru nasměrovat k roli Front-End Developer.
+IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-Endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám ve Front-end Developer Akademii se zaměřením na znalosti v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React, Angular.
 
 Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 

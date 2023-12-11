@@ -32,7 +32,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. [Brackets](https://brackets.io/) nejlepší opensource HTML editor.
 3. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
 4. [NextCloud](https://nextcloud.com/) opensource cloud se spoustou funkcí a textovým editorem.
-5. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně. 
+5. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně.
+6. [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
 
 ## 🛠️ Na čem pracuji:

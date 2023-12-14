@@ -45,7 +45,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 Můj blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
 
-Můj poslední Project který jsem teď začal v Reactu najdeš na [Testing Docs](https://github.com/LukasKanka/kanka)  odkaz na [náhled](https://lukaskanka.github.io/kanka/)
+Můj poslední Project který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
 
 Další repozitáře doplním, nebo se můžeš podívat sám co ještě není zde v seznamu 👁️
 

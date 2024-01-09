@@ -22,18 +22,17 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 
 
-## 💻 Mé nejoblíbenější IDE:
-1. VS Code
-2. Brackets
-3. JetBrains Rider
+## 💻 Mé nejoblíbenější editory:
+1. Neovim - můj setup [Nvim Front-End Power](https://github.com/LukasKanka/Nvim-frontend-setup)
+2. VS Code
+3. Brackets
+4. Notepad++
 
 ## 📀 Můj ostatní nejoblíbenější software:
-1. [Vivaldi](https://www.mozilla.org/cs/firefox/)
-2. [Brackets](https://brackets.io/) nejlepší opensource HTML editor.
-3. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
-4. [NextCloud](https://nextcloud.com/) opensource cloud se spoustou funkcí a textovým editorem.
-5. [OneDrive](https://onedrive.live.com) velmi výkonny cloud intergrovaný do Windows s Office v ceně.
-6. [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
+1. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
+2. Rychlé poznámky a Poznámkový Blok
+3. TotalCommander nestárnoucí klasika
+4. [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
 
 ## 🛠️ Na čem pracuji:

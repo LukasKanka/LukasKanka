@@ -31,10 +31,12 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 4. Notepad++
 
 ## 📀 Můj ostatní nejoblíbenější software:
-1. [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
-2. Rychlé poznámky a Poznámkový Blok
-3. TotalCommander nestárnoucí klasika
-4. [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
+* [Obsidian](https://obsidian.md/) skvělý Markdown editor se spoustou pluginy.
+* [Joplin](https://joplinapp.org/) další skvělý Markdown editor více UserFriendly.
+* [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
+* Rychlé poznámky a Poznámkový Blok
+* TotalCommander nestárnoucí klasika
+* [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
 
 ## 🛠️ Na čem pracuji:

@@ -9,7 +9,9 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 
-[Blog blog](https://www.lukaskanka.cz) můj blog který tvořím v HTML a CSS
+[GistGitHub](https://gist.github.com/LukasKanka)
+
+[Blog](https://www.lukaskanka.cz) můj blog který tvořím v HTML a CSS
 
 [Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 

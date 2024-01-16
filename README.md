@@ -17,7 +17,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [Testing Docs](https://testing-docs.cz) místo kde si ukládám své poznatky s testingu.
 
-[Digital Garden](https://publish.obsidian.md/kankys-note/) má digitální zahrada na platformě Obsidián.
+[Digital Garden](https://cobras-brush-ql1.craft.me/Gx2Rhh07iMKxyh) má digitální zahrada na platformě Craft Docs.
 
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazi na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 

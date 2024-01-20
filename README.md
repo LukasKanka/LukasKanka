@@ -33,10 +33,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 4. Notepad++
 
 ## 📀 Můj ostatní nejoblíbenější software:
-* [Obsidian](https://obsidian.md/) skvělý Markdown editor se spoustou pluginy.
-* [Joplin](https://joplinapp.org/) další skvělý Markdown editor více UserFriendly.
-* [One Note](https://www.onenote.com/) poznámkový blok od Microsoftu.
-* Rychlé poznámky a Poznámkový Blok
+* [Anytype](https://anytype.io/) skvělý textový editor,kterýse zaměřuje na zabezpečení dat.
 * TotalCommander nestárnoucí klasika
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
@@ -46,13 +43,15 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015
 3. HP NB --> Ubuntu, EndeavourOS
 
-## 📑 Seznam mých ropozitářů na tworbu webů a webových aplikací
+## 📑 Seznam mých ropozitářů a projektů na tworbu webů a webových aplikací
+* Můj blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
+* Můj poslední Project který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
+  ### Samostané projekty v rámci Akademie Frontend vývojář
+* [Životopis](https://lukaskanka.cz/zivotopis.html) tento projekt je jako první úkol v Akademii. Zadání bylo vytvořit jednoduchý životpis na procvičení základů HTML a CSS. Později jsem ještě pomocí CSS nastavil v úkolu responsivní web pro mobilní zařízení.
+* [Karta Produktu](https://lukaskanka.cz/karta-produktu.html) karta produktu. Na tomto projektu jsme se naučily pozicování elementu a pojmy jako Margin a Padding. Odkaz na GitHub [repozitář](https://github.com/LukasKanka/karta-produktu).
+* [Cestovatelská stránka](https://lukaskanka.cz/nature-and-culture.html) tento projekt je zaměřen na responsivitu webu pro mobilní zařízení a také jsme použily porvé Flexbox. Odkaz na GitHub [repozitář](https://github.com/LukasKanka/NatureAndCulture_Engeto.git).
 
-Můj blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
 
-Můj poslední Project který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
-
-Další repozitáře doplním, nebo se můžeš podívat sám co ještě není zde v seznamu 👁️
 
 
 ## 📑 Seznam mých ropozitářů automatizované testování

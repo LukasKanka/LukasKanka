@@ -3,7 +3,7 @@
 
 ## 👨🏽‍💻 Něco málo o mně:
 
-IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-Endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám ve Front-end Developer Akademii se zaměřením na znalosti v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP.
+IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám ve Front-end Developer Akademii se zaměřením na znalosti v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP.
 
 Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
@@ -11,15 +11,15 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [GistGitHub](https://gist.github.com/LukasKanka)
 
-[Blog](https://www.lukaskanka.cz) můj blog který tvořím v HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
+[Blog](https://www.lukaskanka.cz) můj blog, který tvořím v HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
 [Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 
-[Testing Docs](https://testing-docs.cz) místo kde si ukládám své poznatky s testingu.
+[Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu.
 
 [Digital Garden](https://cobras-brush-ql1.craft.me/Gx2Rhh07iMKxyh) má digitální zahrada na platformě Craft Docs.
 
-[Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazi na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
+[Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
@@ -32,8 +32,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 3. Brackets
 4. Notepad++
 
-## 📀 Můj ostatní nejoblíbenější software:
-* [Anytype](https://anytype.io/) skvělý textový editor,kterýse zaměřuje na zabezpečení dat.
+## 📀 Můj další nejoblíbenější software:
+* [Anytype](https://anytype.io/) skvělý textový editor, který se zaměřuje na zabezpečení dat.
 * TotalCommander nestárnoucí klasika
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
@@ -43,9 +43,9 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015
 3. HP NB --> Ubuntu, EndeavourOS
 
-## 📑 Seznam mých ropozitářů a projektů na tworbu webů a webových aplikací
-* Můj blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
-* Můj poslední Project který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
+## 📑 Seznam ropozitářů a projektů na tworbu webů a webových aplikací
+* Blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
+* Poslední Project, který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
   ### Samostané projekty v rámci Akademie Frontend vývojář
 * [Životopis](https://lukaskanka.cz/zivotopis.html) tento projekt je jako první úkol v Akademii. Zadání bylo vytvořit jednoduchý životpis na procvičení základů HTML a CSS. Později jsem ještě pomocí CSS nastavil v úkolu responsivní web pro mobilní zařízení.
 * [Karta Produktu](https://lukaskanka.cz/karta-produktu.html) karta produktu. Na tomto projektu jsme se naučily pozicování elementu a pojmy jako Margin a Padding. Odkaz na GitHub [repozitář](https://github.com/LukasKanka/karta-produktu).

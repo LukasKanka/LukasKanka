@@ -17,31 +17,23 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu.
 
-[Digital Garden](https://cobras-brush-ql1.craft.me/Gx2Rhh07iMKxyh) má digitální zahrada na platformě Craft Docs.
-
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
 
+## 🛠️ Na čem pracuji:
+1. Lenovo ThinBook 14ADA --> Windows
+2. MacBookPro 2015 --> dual boot Ubuntu 22.04.03 LTS PRO
 
-
-## 💻 Mé nejoblíbenější editory:
+## 💻 Mé nejoblíbenější editory a IDE:
 1. Neovim - můj setup [Nvim Front-End Power](https://github.com/LukasKanka/Nvim-frontend-setup)
 2. VS Code
-3. Brackets
-4. Notepad++
 
 ## 📀 Můj další nejoblíbenější software:
 * [Anytype](https://anytype.io/) skvělý textový editor, který se zaměřuje na zabezpečení dat.
 * TotalCommander nestárnoucí klasika
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
-
-
-## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> Windows
-2. MacBookPro 2015
-3. HP NB --> Ubuntu, EndeavourOS
 
 ## 📑 Seznam ropozitářů a projektů na tworbu webů a webových aplikací
 * Blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)

@@ -23,7 +23,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 
 ## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> Windows 11 / EnedeavourOS
+1. Lenovo ThinBook 14ADA --> EnedeavourOS dual boot Windows 11 PRO (wokna jen kdyby tak náhodou. . . )
 2. MacBookPro 2015 --> dual boot Ubuntu 22.04.03 LTS PRO
 
 ## 💻 Mé nejoblíbenější editory a IDE:

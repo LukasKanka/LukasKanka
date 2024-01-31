@@ -27,8 +27,9 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015 --> dual boot Ubuntu 22.04.03 LTS PRO
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. Neovim - můj setup [Nvim Front-End Power](https://github.com/LukasKanka/Nvim-frontend-setup)
-2. VS Code
+1. Kate - Editor pro KDE
+2. VS Codium -Fork k editoru VS Code
+3. Neovim - můj setup [Nvim Front-End Power](https://github.com/LukasKanka/Nvim-frontend-setup)
 
 ## 📀 Můj další nejoblíbenější software:
 * [Anytype](https://anytype.io/) skvělý textový editor, který se zaměřuje na zabezpečení dat.

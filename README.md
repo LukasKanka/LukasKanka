@@ -35,6 +35,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 * TotalCommander nestárnoucí klasika
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
+  <figure><embed src="https://wakatime.com/share/@27717613-c9d4-4e0f-9b1c-a6290351c3b8/f3f73399-2956-4b59-a56f-62066d789636.svg"></embed></figure>
+
 ## 📑 Seznam ropozitářů a projektů na tworbu webů a webových aplikací
 * Blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
 * Poslední Project, který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.

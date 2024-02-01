@@ -35,7 +35,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 * TotalCommander nestárnoucí klasika
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 
-  <figure><embed src="https://wakatime.com/share/@27717613-c9d4-4e0f-9b1c-a6290351c3b8/f3f73399-2956-4b59-a56f-62066d789636.svg"></embed></figure>
+  <embed src="https://wakatime.com/share/@27717613-c9d4-4e0f-9b1c-a6290351c3b8/f3f73399-2956-4b59-a56f-62066d789636.svg"></embed>
 
 ## 📑 Seznam ropozitářů a projektů na tworbu webů a webových aplikací
 * Blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)

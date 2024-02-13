@@ -9,6 +9,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 
+[Digital Garden](https://publish.obsidian.md/kankys-note/Digital+Garden+%F0%9F%8C%B1/Kankys+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%9A%80/V%C3%ADt%C3%A1m+t%C4%9B+v+m%C3%A9+Digit%C3%A1ln%C3%AD+Zahrad%C4%9B!) má digitální zahrada na platformě Obsidian.
+
 [GistGitHub](https://gist.github.com/LukasKanka)
 
 [WakaTime](https://wakatime.com/@kankys)

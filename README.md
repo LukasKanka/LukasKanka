@@ -1,6 +1,12 @@
  👋
 # 🛣️ Rozcestník Lukáše Kaňky na tomto GitHub profilu
 
+## ☕ Nyní mě najdeš na [Gitea](https://git.archoslinux.cz/kankys)
+
+* Tento profil a všechny repozitáře jsem přesunul na platformu Gitea kterou hostujeme na vlastní VPS. Zde se budou mé repozitáře aktualizovat už jen nárazově.
+* Gitea je verzovací opensource projekt, více info najdeš [zde](https://about.gitea.com/)
+* Pokud by jsi měl zájem o zřízení účtu na našem Gitea serveru můžeš mě kontaktovat. 
+
 ## 👨🏽‍💻 Něco málo o mně:
 
 IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám ve Front-end Developer Akademii se zaměřením na znalosti v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP.

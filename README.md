@@ -4,6 +4,7 @@
 ## ☕ Nyní mě najdeš na [Gitea](https://git.archoslinux.cz/kankys)
 
 * Tento profil a všechny repozitáře jsem přesunul na platformu Gitea kterou hostujeme na vlastní VPS. Zde se budou mé repozitáře aktualizovat už jen nárazově.
+* Giteu a další aplikace hostuje spolek ArchLinux CZ kde jsem jeho aktivním přispěvovatel v rámci webových stránek.
 * Gitea je verzovací opensource projekt, více info najdeš [zde](https://about.gitea.com/).
 * Pokud by jsi měl zájem o zřízení účtu na našem Gitea serveru můžeš mě kontaktovat. 
 

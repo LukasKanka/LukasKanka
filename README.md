@@ -32,6 +32,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
+[Mega](https://mega.io/?aff=xTR_bIiFjj4) můj Referral programm link na Mega, kde zapoužití získáme oba nějaké ty bonusy. Mega je cloud služba s dobrými ceny, která je pro všechny OS tak i mobilní zařízení. Nabízi galerii fotografií, možnost editovat vaše textové soubory a navíc je vše šyfrováno.
 
 ## 🛠️ Na čem pracuji:
 1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS dual boot 🪟 Windows 11 PRO (wokna jen kdyby tak náhodou. . . )

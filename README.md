@@ -1,12 +1,9 @@
- 👋
-# 🛣️ Rozcestník Lukáše Kaňky na tomto GitHub profilu
+👋
+# 🛣️ Rozcestník Lukáše Kaňky na tomto Git 
+
 
 ## ☕ Nyní mě najdeš na [Gitea](https://git.archoslinux.cz/kankys)
 
-* Tento profil a všechny repozitáře jsem přesunul na platformu Gitea kterou hostujeme na vlastní VPS. Zde se budou mé repozitáře aktualizovat už jen nárazově.
-* Giteu a další aplikace hostuje spolek ArchLinux CZ kde jsem jeho aktivním přispěvovatel v rámci webových stránek.
-* Gitea je verzovací opensource projekt, více info najdeš [zde](https://about.gitea.com/).
-* Pokud by jsi měl zájem o zřízení účtu na našem Gitea serveru můžeš mě kontaktovat. 
 
 ## 👨🏽‍💻 Něco málo o mně:
 
@@ -18,7 +15,9 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [Digital Garden](https://publish.obsidian.md/kankys-note/Digital+Garden+%F0%9F%8C%B1/Kankys+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%9A%80/V%C3%ADt%C3%A1m+t%C4%9B+v+m%C3%A9+Digit%C3%A1ln%C3%AD+Zahrad%C4%9B!) má digitální zahrada na platformě Obsidian.
 
-[GistGitHub](https://gist.github.com/LukasKanka)
+[Mastodon profil](https://mastodon.arch-linux.cz/deck/@Kankys)
+
+[Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [WakaTime](https://wakatime.com/@kankys)
 
@@ -28,29 +27,35 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu.
 
-[Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
-
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
 [Mega](https://mega.io/?aff=xTR_bIiFjj4) můj Referral programm link na Mega, kde zapoužití získáme oba nějaké ty bonusy. Mega je cloud služba s dobrými ceny, která je pro všechny OS tak i mobilní zařízení. Nabízi galerii fotografií, možnost editovat vaše textové soubory a navíc je vše šyfrováno.
+
 
 ## 🛠️ Na čem pracuji:
 1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS dual boot 🪟 Windows 11 PRO (wokna jen kdyby tak náhodou. . . )
 2. MacBookPro 2015 🍏 --> dual boot Ubuntu 22.04.03 LTS PRO
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. VS Codium -Fork k editoru VS Code
-2. Neovim - můj setup [Nvim Front-End Power](https://github.com/LukasKanka/Nvim-frontend-setup)
+1. [Neovim](https://neovim.io/) - můj setup [Nvim Front-End Power](https://git.archoslinux.cz/kankys/Nvim-frontend-setup)
+2. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup)
+3. [VS Codium](https://vscodium.com/) -Fork k editoru VS Code
 
-## 📀 Můj další nejoblíbenější software:
+
+## 📀 Můj další nejoblíbenější software a služby:
 * [Anytype](https://anytype.io/) skvělý textový editor, který se zaměřuje na zabezpečení dat.
-* TotalCommander nestárnoucí klasika
+* [SearXNG](https://searxng.cz/) bezpečný vyhledávač dbající na vaše soukromí.
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
+* [NextCloud](https://nextcloud.com/) víc než jen uložište dat, Nextcloud je opensource alternativa k OneDrive či službám Google.
+* [Bitwarden](https://bitwarden.com/) správce hesel.
+* [Firefox](https://www.mozilla.org/cs/firefox/new/) za mě jednička mezi webovými prohlížeči.
+* [Obsidian](https://obsidian.md/) markdown editor, který pracuje se soubory na vašem PC.
 
 
 ## 📑 Seznam ropozitářů a projektů na tworbu webů a webových aplikací
+### Některé repozitáře odkazují stále na GitHub, ale postupně vše přesouvám sem.
 * Blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
-* Poslední Project, který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://github.com/LukasKanka/testing-docs.cz) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
+* Poslední Project, který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://git.archoslinux.cz/kankys/testing-docs.cz.git) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
   ### Samostané projekty v rámci Akademie Frontend vývojář
 * [Životopis](https://lukaskanka.cz/zivotopis.html) tento projekt je jako první úkol v Akademii. Zadání bylo vytvořit jednoduchý životpis na procvičení základů HTML a CSS. Později jsem ještě pomocí CSS nastavil v úkolu responsivní web pro mobilní zařízení.
 * [Karta Produktu](https://lukaskanka.cz/karta-produktu.html) karta produktu. Na tomto projektu jsme se naučily pozicování elementu a pojmy jako Margin a Padding. Odkaz na GitHub [repozitář](https://github.com/LukasKanka/karta-produktu).
@@ -98,6 +103,7 @@ Zde najdeš seznam mých projektů v repozitářích s krátkým popiskem. Vět�
 [lukanSelenide](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenide)--> Selenide + Java automatizované testy na mém [blogu](https://lukan.cz/) kde používám page object
 
 [lukanSelenideCucumber](https://github.com/LukasKanka/Selenium_Selenide_Playwright_JAVA/tree/main/lukanSelenideCucumber)--> Selenide + Cucumber + Java automatizované testy na mém [blogu](https://lukan.cz/)
+
 
 
 

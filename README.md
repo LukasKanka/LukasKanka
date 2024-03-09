@@ -1,5 +1,5 @@
 👋
-# 🛣️ Rozcestník Lukáše Kaňky na tomto Git 
+# 🛣️ Rozcestník Lukáše Kaňky na tomto Git profilu
 
 
 ## ☕ Nyní mě najdeš na [Gitea](https://git.archoslinux.cz/kankys)
@@ -53,7 +53,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 
 ## 📑 Seznam ropozitářů a projektů na tworbu webů a webových aplikací
-### Některé repozitáře odkazují stále na GitHub, ale postupně vše přesouvám sem.
+### Některé repozitáře odkazují stále na GitHub, ale postupně vše přesouvám na můj Gitea účet.
 * Blog v HTML a CSS [odkaz](https://www.lukaskanka.cz)
 * Poslední Project, který jsem začal je Wiki pro testery, ropozitář najdeš [zde](https://git.archoslinux.cz/kankys/testing-docs.cz.git) a odkaz na web je [zde](https://testing-docs.cz/). Na tomto projektu se bude více a více pracovat.
   ### Samostané projekty v rámci Akademie Frontend vývojář

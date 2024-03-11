@@ -25,7 +25,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 
-[Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu.
+<!-- [Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu.-->
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 

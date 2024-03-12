@@ -37,11 +37,11 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🛠️ Na čem pracuji:
 1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS dual boot 🪟 Windows 11 PRO (wokna jen kdyby tak náhodou. . . )
-2. MacBookPro 2015 🍏 --> dual boot Ubuntu 22.04.03 LTS PRO
+2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. [Neovim](https://neovim.io/) - můj setup [Nvim Front-End Power](https://git.archoslinux.cz/kankys/Nvim-frontend-setup)
-2. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup)
+1. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - vlastní konfigurace pro front-end vývoj s možnostírozšíření React a Vue.
+2. [Neovim](https://neovim.io/) - můj setup [Nvim Front-End Power](https://git.archoslinux.cz/kankys/Nvim-frontend-setup)
 3. [VS Codium](https://vscodium.com/) -Fork k editoru VS Code
 
 

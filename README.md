@@ -13,24 +13,27 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 
-[Digital Garden](https://publish.obsidian.md/kankys-note/Digital+Garden+%F0%9F%8C%B1/Kankys+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%9A%80/V%C3%ADt%C3%A1m+t%C4%9B+v+m%C3%A9+Digit%C3%A1ln%C3%AD+Zahrad%C4%9B!) má digitální zahrada na platformě Obsidian.
+[Nostr](https://nostr.band/npub12xzu8ejrl9cwpd034cqj5jtuztn4mxp3em2frckm9tk28kmy48vqr0u0yu) odkaz na Nostr.band decentralizovanou sociální síť kde jsem nejaktivnější. 
 
 [Mastodon profil](https://mastodon.arch-linux.cz/deck/@Kankys)
 
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
+[Dev.to](https://dev.to/kankys)
+
 [WakaTime](https://wakatime.com/@kankys)
 
 [Blog](https://www.lukaskanka.cz) můj blog, který tvořím v HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
+[Habla.news](https://habla.news/p/nprofile1qqs9rpwrueplju8qkhc6uqf2f97p9e6anqcua4y3utdj4m9rmdj2nkqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qythwumn8ghj7un9d3shjtnwdaehgu3wd9hxvme0qyfhwumn8ghj7mmxve3ksctfdch8qatz9uq3samnwvaz7tmjv4kxz7fwvd6hyun9de6zuenedyhszxnhwden5te0dehhxarj9eax2cn9v3jk2tnrd3hh2ep0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qg3waehxw309ahx7um5wgh8w6twv5hsz9nhwden5te0v4jx2m3wdehhxarj9ekxzmny9uq3qamnwvaz7tmwduh8xarj9e3hytcpramhxue69uhkummnw3ez6un9d3shjtnyv4ex26mjdaehxtndv5hsz8rhwden5te0dehhxarj94c82c3wwdjk66tndakzuer9wchsz8mhwden5te0dehhxarj94ex2mrp0yhxummtda6xzun09e3k7mf0qyvhwumn8ghj7mn0wd68ytthdaexcepwdqeh5tn2wqhszxthwden5te0dehhxarj9e4k7mrvd9jx2u3w0puh5tcprdmhxue69uhkummnw3ezummjv9hxwetsd9kxctnyv4mz7qg4waehxw309ahx7um5wghx77r5wghxgetk9uqjqamnwvaz7tmwdaehgu3wwaskcmr9w3hkvumpw3hhx6rf9e3k7mf0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq3xamnwvaz7tmsw4e8qmr9wpskwtn9wvhsz9nhwden5te0wfjkccte9ekk7um5wgh8qatz9uq3jamnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kz7qg4waehxw309aex2mrp0yhxummnw3ezucn89uq3jamnwvaz7tmwdaehgu3wd3hxy6t5vdhkjm3wvdaz7qgawaehxw309ahx7um5wghx6at5d9h8jampd3kx2apwvdhk6tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkjunfwvh8gme0qyv8wumn8ghj7un9d3shjtnsd3jkyum5wghxxmmd9uat9nes) blog na platformě Nostr.
+
 [Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 
-<!-- [Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu.-->
+[Digital Garden](https://publish.obsidian.md/kankys-note/Digital+Garden+%F0%9F%8C%B1/Kankys+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%9A%80/V%C3%ADt%C3%A1m+t%C4%9B+v+m%C3%A9+Digit%C3%A1ln%C3%AD+Zahrad%C4%9B!) má digitální zahrada na platformě Obsidian.
+
+<!-- [Testing Docs](https://testing-docs.cz) místo, kde si ukládám své poznatky z testingu. -->
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
-
-[Dev.to](https://dev.to/kankys)
-
 
 [Mega](https://mega.io/?aff=xTR_bIiFjj4) můj Referral programm link na Mega, kde zapoužití získáme oba nějaké ty bonusy. Mega je cloud služba s dobrými ceny, která je pro všechny OS tak i mobilní zařízení. Nabízi galerii fotografií, možnost editovat vaše textové soubory a navíc je vše šyfrováno.
 

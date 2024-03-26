@@ -13,11 +13,11 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 
-[Nostr](https://nostr.band/npub12xzu8ejrl9cwpd034cqj5jtuztn4mxp3em2frckm9tk28kmy48vqr0u0yu) odkaz na Nostr.band decentralizovanou sociální síť kde jsem nejaktivnější. 
+[Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
+
+[Nostr](https://nostr.band/npub12xzu8ejrl9cwpd034cqj5jtuztn4mxp3em2frckm9tk28kmy48vqr0u0yu) odkaz na Nostr.band decentralizovanou sociální síť. 
 
 [Mastodon profil](https://mastodon.arch-linux.cz/deck/@Kankys)
-
-[Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [Dev.to](https://dev.to/kankys)
 
@@ -39,17 +39,15 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 
 ## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS dual boot 🪟 Windows 11 PRO (wokna jen kdyby tak náhodou. . . )
+1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS i3 window manager
 2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
 1. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - vlastní konfigurace pro front-end vývoj s možnostírozšíření React a Vue.
-2. [Neovim](https://neovim.io/) - můj setup [Nvim Front-End Power](https://git.archoslinux.cz/kankys/Nvim-frontend-setup)
-3. [VS Codium](https://vscodium.com/) -Fork k editoru VS Code
+2. [Neovim](https://neovim.io/) - můj setup [🚀 ApolloNvim Front-End Power](https://github.com/LukasKanka/ApolloNvim)
 
 
 ## 📀 Můj další nejoblíbenější software a služby:
-* [Anytype](https://anytype.io/) skvělý textový editor, který se zaměřuje na zabezpečení dat.
 * [SearXNG](https://searxng.cz/) bezpečný vyhledávač dbající na vaše soukromí.
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 * [NextCloud](https://nextcloud.com/) víc než jen uložište dat, Nextcloud je opensource alternativa k OneDrive či službám Google.

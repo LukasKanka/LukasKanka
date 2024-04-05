@@ -2,8 +2,6 @@
 # 🛣️ Rozcestník Lukáše Kaňky na tomto Git profilu
 
 
-## ☕ Nyní mě najdeš na [Gitea](https://git.archoslinux.cz/kankys)
-
 
 ## 👨🏽‍💻 Něco málo o mně:
 

@@ -15,8 +15,6 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 
-[Threads](https://www.threads.net/)
-
 [Telegram](https://t.me/kankys_blog) můj kánál/blog na síti Telegram, najdeš zde odkazy na zajímavé články nebo třeba ankety. Každý den nový aktuální obsah z oblasti IT, ale i mimo IT. 
 
 [Mastodon profil](https://mastodon.arch-linux.cz/deck/@Kankys)
@@ -39,16 +37,16 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - vlastní konfigurace pro front-end vývoj s možnostírozšíření React a Vue.
+1. [VSCOdium](https://vscodium.com/) - fork k VSCode bez sledování telemetrie MS.
 2. [Neovim](https://neovim.io/) - můj setup [🚀 ApolloNvim Front-End Power](https://github.com/LukasKanka/ApolloNvim)
+3. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - vlastní konfigurace pro front-end vývoj s možnostírozšíření React a Vue.
+ 
 
 
 ## 📀 Můj další nejoblíbenější software a služby:
 * [SearXNG](https://searxng.cz/) bezpečný vyhledávač dbající na vaše soukromí.
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
-* [NextCloud](https://nextcloud.com/) víc než jen uložište dat, Nextcloud je opensource alternativa k OneDrive či službám Google.
-* [Bitwarden](https://bitwarden.com/) správce hesel.
-* [Firefox](https://www.mozilla.org/cs/firefox/new/) za mě jednička mezi webovými prohlížeči.
+* [Bitwarden](https://bitwarden.com/) správce hesel.* [Firefox](https://www.mozilla.org/cs/firefox/new/) za mě jednička mezi webovými prohlížeči.
 * [Obsidian](https://obsidian.md/) markdown editor, který pracuje se soubory na vašem PC.
 
 

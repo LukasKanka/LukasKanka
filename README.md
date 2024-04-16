@@ -1,7 +1,7 @@
 👋
 # 🛣️ Rozcestník Lukáše Kaňky na tomto Git profilu
 ___
-## Další mé ropozitáře najdeš na [Git Arch Linux CZ](https://git.archoslinux.cz/kankys), který běží na Gitea a VPS spolku Arch Linux CZ.
+### Další mé ropozitáře najdeš na [Git Arch Linux CZ](https://git.archoslinux.cz/kankys), který běží na Gitea a VPS spolku Arch Linux CZ.
 
 
 

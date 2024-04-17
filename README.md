@@ -37,7 +37,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. [VSCOdium](https://vscodium.com/) - fork k VSCode bez sledování telemetrie MS.
+1. [VSCodium](https://vscodium.com/) - fork k VSCode bez sledování telemetrie MS.
 2. [Neovim](https://neovim.io/) - můj setup [🚀 ApolloNvim Front-End Power](https://github.com/LukasKanka/ApolloNvim)
 3. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - vlastní konfigurace pro front-end vývoj s možnostírozšíření React a Vue.
  

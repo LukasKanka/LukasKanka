@@ -7,9 +7,9 @@ ___
 
 ## 👨🏽‍💻 Něco málo o mně:
 
-IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám ve Front-end Developer Akademii se zaměřením na znalosti v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP. Aktuálně pracuji v ČS jako Junior Developer.
+IT nadšenec s pozitivním přístupem k životu a vášní pro technologie. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám  v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP. Aktuálně pracuji v ČS jako Junior FE Developer.
 
-**Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity EndeoverOS](https://endeavouros.cz) se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).**
+**Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity EndeavourOS](https://endeavouros.cz) se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).**
 
 Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 

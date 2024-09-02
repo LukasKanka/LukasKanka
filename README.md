@@ -35,9 +35,9 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. [JetBrains Webstorm](https://www.jetbrains.com/webstorm/) - skvělé IDE od JatBrains jako jeho ostatní produkty 
+1. [VSCodium](https://vscodium.com/) - fork k VSCode bez sledování a telemetrie MS.
 2. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - tento editor využívám hlavně pro úpravu textu v [Markdown](https://www.markdownguide.org/)
-3. [VSCodium](https://vscodium.com/) - fork k VSCode bez sledování a telemetrie MS.
+3. [JetBrains IDE](https://www.jetbrains.com/) - skvělé IDE od JatBrains používám dle potřeby
  
 
 

@@ -23,7 +23,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [WakaTime](https://wakatime.com/@kankys)
 
-[Blog](https://www.lukaskanka.cz) můj blog, který tvořím v HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
+[Blog](https://www.lukaskanka.cz) můj blog, který tvořím v PHP, HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
 [Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 

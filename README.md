@@ -35,13 +35,13 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. [VSCodium](https://vscodium.com/) - fork k VSCode bez sledování a telemetrie MS.
-2. [Helix](https://helix-editor.com/) - můj setup [Helix - Front-End](https://git.archoslinux.cz/kankys/Helix-frontend-setup) - tento editor využívám hlavně pro úpravu textu v [Markdown](https://www.markdownguide.org/)
-3. [JetBrains IDE](https://www.jetbrains.com/) - skvělé IDE od JatBrains používám dle potřeby
+1. [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - skvělé IDE z Čech.
+2. [Kate](https://kate-editor.org/cs/) - na menší úpravu kódu a jako textový editor používám Kate
  
 
 
 ## 📀 Můj další nejoblíbenější software a služby:
+* [CryptPad](https://cryptpad.fr/) kompletní sada office z vysokým důrazem na bezpečnost.
 * [SearXNG](https://searxng.cz/) bezpečný vyhledávač dbající na vaše soukromí.
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 * [Bitwarden](https://bitwarden.com/) správce hesel.

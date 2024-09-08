@@ -21,7 +21,6 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 [Dev.to](https://dev.to/kankys)
 
-[WakaTime](https://wakatime.com/@kankys)
 
 [Blog](https://www.lukaskanka.cz) můj blog, který tvořím v PHP, HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
@@ -36,7 +35,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 💻 Mé nejoblíbenější editory a IDE:
 1. [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - skvělé IDE z Čech.
-2. [Kate](https://kate-editor.org/cs/) - na menší úpravu kódu a jako textový editor používám Kate
+2. [Kate](https://kate-editor.org/cs/) - na menší úpravu kódu a jako textový editor používám Kate.
  
 
 

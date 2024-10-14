@@ -34,6 +34,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 💻 Mé nejoblíbenější editory a IDE:
 1. [Neovim](https://git.arch-linux.cz/kankys/ApolloNvim) - skvělý editor v custom edici ApolloNvim.
+2. [VSCodium](https://vscodium.com/) - fork VSCode bez telemetrie MS.
+
  
 
 

@@ -15,12 +15,11 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 
-[Gitea - ArchosLinux](https://git.archoslinux.cz/kankys) - můj primární Git repozitář na platformě Gitea
+[Gitea - ArchLinux](https://git.arch-linux.cz/) - můj primární Git repozitář na platformě Gitea
 
 [Mastodon profil](https://mastodon.arch-linux.cz/deck/@Kankys)
 
 [Dev.to](https://dev.to/kankys)
-
 
 [Blog](https://www.lukaskanka.cz) můj blog, který tvořím v PHP, HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
@@ -30,12 +29,11 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis.html).
 
 
 ## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS i3 window manager / Gnome46 
+1. Lenovo ThinBook 14ADA --> 🚀 EnedeavourOS i3 window manager / Gnome47 
 2. MacBookPro 2015 🍏 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
-1. [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - skvělé IDE z Čech.
-2. [Kate](https://kate-editor.org/cs/) - na menší úpravu kódu a jako textový editor používám Kate.
+1. [Neovim](https://git.arch-linux.cz/kankys/ApolloNvim) - skvělý editor v custom edici ApolloNvim.
  
 
 

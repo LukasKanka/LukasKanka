@@ -18,8 +18,6 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
 
 [Blog](https://www.lukaskanka.cz) můj blog, který tvořím v PHP, HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
-[KankysLinuxWorld](https://codeberg.org/KankysLinuxWorld) můj Linuxový a Opensource svět na platformě [Codeberg](https://codeberg.org/)
-
 [Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)

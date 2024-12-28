@@ -8,6 +8,8 @@ IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, L
 
 Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity EndeavourOS](https://endeavouros.cz/) se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).
 
+Uživatel 📱 [GrapheneOS](https://grapheneos.org/).
+
 Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
 
 ## 🔍 Kde všude mě najdete:
@@ -24,8 +26,8 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
 
 
 ## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> 🚀 Fedora 40 / Gnome46
-2. MacBookPro 2015 🍏 
+1. Lenovo ThinBook 14ADA --> 🚀 EndeavourOS / Gnome47
+2. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) -> operacní systém založený na Androidu pro zařízení Google Pixel, ze zaměřením na bezpečnost, privete a sandbox režim.
 
 ## 💻 Mé nejoblíbenější editory a IDE:
 1. [Neovim](https://git.arch-linux.cz/kankys/ApolloNvim) - skvělý editor v custom edici ApolloNvim.

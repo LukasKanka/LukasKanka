@@ -8,7 +8,7 @@ IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, L
 
 Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity EndeavourOS](https://endeavouros.cz/) se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).
 
-Uživatel 📱 [GrapheneOS](https://grapheneos.org/).
+Uživatel 📱 [GrapheneOS](https://grapheneos.org/), můj seriál o GrapheneOS nejdeš pod tímto [odkazem](https://lukan.cz/tag/grapheneos/).
 
 Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
 

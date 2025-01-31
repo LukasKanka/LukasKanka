@@ -28,7 +28,7 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
 
 
 ## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> 🚀 EndeavourOS / Gnome47
+1. Lenovo ThinBook 14ADA --> [AlmaLinux 9.5](https://lukan.cz/tag/almalinux/)
 2. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) -> operacní systém založený na Androidu pro zařízení Google Pixel, ze zaměřením na bezpečnost, privete a sandbox režim.
 
 ## 💻 Mé nejoblíbenější editory a IDE:
@@ -44,17 +44,6 @@ Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 * [Bitwarden](https://bitwarden.com/) správce hesel.
 * [Firefox](https://www.mozilla.org/cs/firefox/new/) za mě jednička mezi webovými prohlížeči.
-
-
-
-## 📑 Seznam mých ropozitářů 
-
-Většina repozitářů se týká automatizovaného testování, přechodem na vývoj FE se mění zaměření mých repozitářů do FE. V repozitářích najdeš jen mé projekty které jsem sám dělat od nuly nebo spolupracuji na vývoji. 
-
-
-
-
-
 
 
 <!--

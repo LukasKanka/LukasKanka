@@ -6,7 +6,7 @@ ___
 
 ## 👨🏽‍💻 Něco málo o mně:
 
-IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera a v současné době měním svůj kariérní směr do Front-endu. Kód i programování mě lákalo už dlouho, baví mě zobrazení okamžitého výsledku, který mi umožňuje zlepšení a zdokonalení kódu. Aktuálně se vzdělávám v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
+IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera. Aktuálně se vzdělávám v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
 
 Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity EndeavourOS](https://endeavouros.cz/) se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).
 

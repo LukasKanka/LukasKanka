@@ -8,6 +8,8 @@ ___
 
 IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera. Aktuálně se vzdělávám v JavaScript, HTML, CSS. Jako návazný krok bych své znalosti rád prohluboval ve frameworcích React a také v PHP. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
 
+Jako dobrovolník pomáhám testovat aplikace na portálu [Česko.Digital](https://www.cesko.digital/) a nebo mapuji oblasti na platformě [HOTOSM](https://www.hotosm.org/) převážně projekty Červeného kříže.
+
 Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity EndeavourOS](https://endeavouros.cz/) se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).
 
 Uživatel 📱 [GrapheneOS](https://grapheneos.org/), můj seriál o GrapheneOS nejdeš pod tímto [odkazem](https://lukan.cz/tag/grapheneos/).

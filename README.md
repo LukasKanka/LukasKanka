@@ -14,7 +14,7 @@ Také jsem členem spolku Arch Linux CZ, správce a zakladatel [České Komunity
 
 Uživatel 📱 [GrapheneOS](https://grapheneos.org/), můj seriál o GrapheneOS nejdeš pod tímto [odkazem](https://lukan.cz/tag/grapheneos/).
 
-Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/zivotopis/index.php).
+Mé CV najdete pod tímto [odkazem](https://lukaskanka.cz/index/project/zivotopis/zivotopis.html).
 
 ## 🔍 Kde všude mě najdete:
 

@@ -1,7 +1,7 @@
 👋
 # 🛣️ Rozcestník Lukáše Kaňky na tomto Git profilu
 
-Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš:[Codeberg](https://codeberg.org/Kankys)  a také na platformě [Gitea - ArchLinux](https://git.arch-linux.cz/). GitHub aktializuji v nepravidelných intervalech.
+ #### Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš: **[Codeberg](https://codeberg.org/Kankys)**  a také na platformě **[Gitea - ArchLinux](https://git.arch-linux.cz/)**. GitHub aktializuji v nepravidelných intervalech.
 ___
 
 ## 👨🏽‍💻 Něco málo o mně:

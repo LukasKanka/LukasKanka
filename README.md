@@ -6,7 +6,7 @@ ___
 
 ## 👨🏽‍💻 Něco málo o mně:
 
-IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera.  Aktuálně se vzdělávám v JavaScript, HTML, CSS. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
+Tech-libertarián, IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera.  Aktuálně se vzdělávám v JavaScript, HTML, CSS. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
 
 Jako dobrovolník pomáhám testovat aplikace na portálu [Česko.Digital](https://www.cesko.digital/) a nebo mapuji oblasti na platformě [HOTOSM](https://www.hotosm.org/) převážně projekty Červeného kříže.
 

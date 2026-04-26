@@ -10,7 +10,7 @@ ___
 
 Tech-libertarián, IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera.  Aktuálně se vzdělávám v JavaScript, HTML, CSS. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
 
-Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [Debian 13 Trixie](https://www.debian.org/).
+Uživatel 📱 [GrapheneOS](https://grapheneos.org/) , [EndeavourOS](https://endeavouros.cz/index.php) a [AlmaLinux](https://almalinux.or/).
 
 ## 🔍 Kde všude mě najdete:
 
@@ -26,8 +26,9 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [Debian 13 Trixie](https:
 
 
 ## 🛠️ Na čem pracuji:
-1. Lenovo ThinBook 14ADA --> [Debian 13 Trixie](https://www.debian.org/)
-2. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) -> operacní systém založený na Androidu pro zařízení Google Pixel, ze zaměřením na bezpečnost, privete a sandbox režim.
+1. HP ProBook --> [EndeavourOS](https://endeavouros.cz/index.php)
+2. Lenovo ThinBook 14ADA --> [AlmaLinux](https://almalinux.or/)
+3. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) -> operacní systém založený na Androidu pro zařízení Google Pixel, ze zaměřením na bezpečnost, privete a sandbox režim.
 
 
 ## 💻 Mé nejoblíbenější editory a IDE:

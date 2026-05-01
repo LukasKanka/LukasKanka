@@ -10,7 +10,7 @@ ___
 
 Tech-libertarián, IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera.  Aktuálně se vzdělávám v JavaScript, HTML, CSS. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
 
-Uživatel 📱 [GrapheneOS](https://grapheneos.org/) , [EndeavourOS](https://endeavouros.cz/index.php) a [AlmaLinux](https://almalinux.or/).
+Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://endeavouros.cz/index.php).
 
 ## 🔍 Kde všude mě najdete:
 
@@ -26,15 +26,16 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) , [EndeavourOS](https://end
 
 
 ## 🛠️ Na čem pracuji:
-1. HP ProBook --> [EndeavourOS](https://endeavouros.cz/index.php)
-2. Lenovo ThinBook 14ADA --> [AlmaLinux](https://almalinux.or/)
+1. Lenovo ThinBook 14ADA --> [EndeavourOS](https://endeavouros.cz/index.php)
+2. HP ProBook --> [EndeavourOS](https://endeavouros.cz/index.php)
 3. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) -> operacní systém založený na Androidu pro zařízení Google Pixel, ze zaměřením na bezpečnost, privete a sandbox režim.
 
 
 ## 💻 Mé nejoblíbenější editory a IDE:
+1. [ZED](https://zed.dev/) - VS Code killer.
 1. [VSCodium](https://vscodium.com/) - fork VSCode bez telemetrie MS.
-2. [CherryTree](https://www.giuspen.net/cherrytree/) - textový editor 
-3. [🚀 ApolloNvim](https://codeberg.org/Kankys/ApolloNvim2025) - IDE postavené na Neovim.
+3. [CherryTree](https://www.giuspen.net/cherrytree/) - textový editor.
+4. [🚀 ApolloNvim](https://codeberg.org/Kankys/ApolloNvim2025) - IDE postavené na Neovim.
 
  
 

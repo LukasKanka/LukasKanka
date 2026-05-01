@@ -12,6 +12,11 @@ Tech-libertarián, IT nadšenec s pozitivním přístupem k životu a vášní
 
 Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://endeavouros.cz/index.php).
 
+## 🚜 Mé projekty:
+* [🇨🇿 Česká komunita EndeavourOS! 🇨🇿 ](https://endeavouros.cz/) web české komunity EndeavourOS Linux se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).
+* [🎸 Zažij numetal a grunge každý den, po celý rok. 💿](https://music.lukan.cz/) hudební výzva 2026.
+* [🚀 ApolloNvim](https://codeberg.org/ApolloNvim) Programování je mnohem zábavnější, když jste efektivní. Neovim vás tam může časem dostat, ale musíte být ochotni zkoušet nové věci. Nové pluginy, nové remapy atd. Mrkni i na [web projektu](https://apollonvim.codeberg.page/).
+
 ## 🔍 Kde všude mě najdete:
 
 [Bluesky](https://bsky.app/profile/kankys.bsky.social)
@@ -45,10 +50,7 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 * [Firefox](https://www.mozilla.org/cs/firefox/new/) za mě jednička mezi webovými prohlížeči.
 * [Sada nástojů Proton](https://proton.me/) jako VPN, cloud, AI a dalsší služby za jednu cenu.
 
-## 🚜 Mé projekty:
-* [🚀 ApolloNvim](https://codeberg.org/ApolloNvim) Programování je mnohem zábavnější, když jste efektivní. Neovim vás tam může časem dostat, ale musíte být ochotni zkoušet nové věci. Nové pluginy, nové remapy atd. Mrkni i na [web projektu](https://apollonvim.codeberg.page/).
-* [🎸 Zažij numetal a grunge každý den, po celý rok. 💿](https://music.lukan.cz/) hudební výzva 2026
-* [🇨🇿 Česká komunita EndeavourOS! 🇨🇿 ](https://endeavouros.cz/) web české komunity EndeavourOS Linux se svolením tvurců a vývojářů [EndeavourOS](https://endeavouros.com/).
+
 
 
 

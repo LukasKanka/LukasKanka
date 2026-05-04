@@ -10,6 +10,8 @@ ___
 
 Tech-libertarián, IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, Linux a OpenSource. Do světa IT jsem vstoupil jako Support, pak mě osud dovedl na pozici testera.  Aktuálně se vzdělávám v JavaScript, HTML, CSS. Aktuálně pracuji pro společnost Kyndryl na pozici Frontendový vývojář pro platformu SMART v ČS.
 
+Hrdý člen spolku [https://vpsfree.cz/](vpsfree).
+
 Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://endeavouros.cz/index.php).
 
 ## 🚜 Mé projekty:

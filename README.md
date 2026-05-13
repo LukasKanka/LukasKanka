@@ -23,9 +23,7 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 
 [Bluesky](https://bsky.app/profile/kankys.bsky.social)
 
-[Blog](https://www.lukaskanka.cz) můj blog, který tvořím v PHP, HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
-
-[Můj druhý blog ve Wordpress](https://www.lukan.cz) můj blog o všem možném i nemožném.
+[Blog](https://lukaskanka.cz) můj blog, který tvořím v PHP, HTML a CSS. Omlouvám se za nedostatky na webu, ale pracuji na něm pouze ve volném čase.
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
@@ -50,7 +48,6 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 ## 📀 Můj další nejoblíbenější software a služby:
 * [FileZilla](https://filezilla-project.org) přenos souborů přes FTP.
 * [Firefox](https://www.mozilla.org/cs/firefox/new/) za mě jednička mezi webovými prohlížeči.
-* [Sada nástojů Proton](https://proton.me/) jako VPN, cloud, AI a dalsší služby za jednu cenu.
 
 
 

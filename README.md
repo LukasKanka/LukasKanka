@@ -1,5 +1,5 @@
 
- #### Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš: **[Codeberg](https://codeberg.org/Kankys)**  a také na platformě **[Gitea - ArchLinux](https://git.arch-linux.cz/)**.
+ ## Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě: **[Codeberg](https://codeberg.org/Kankys)**.
 ___
 
 👋

@@ -1,5 +1,5 @@
 
- ## Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě: **[Ngit](https://gitworkshop.dev/npub12xzu8ejrl9cwpd034cqj5jtuztn4mxp3em2frckm9tk28kmy48vqr0u0yu)** nebo **[Codeberg](https://codeberg.org/Kankys)**.
+ ## Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě: **[Codeberg](https://codeberg.org/Kankys)**.
 ___
 
 👋

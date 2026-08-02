@@ -22,7 +22,7 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 [Životopis](https://lukaskanka.cz/cv/lukaskanka.html)
 
 ## 🛠️ Na čem pracuji:
-1. 😈 Lenovo ThinBook 14ADA --> --> [FreeBSD](https://www.freebsd.org/)
+1. 🐧 Lenovo ThinBook 14ADA --> --> [EndeavourOS](https://endeavouros.cz/)
 2. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) - GrapheneOS – operační systém založený na Androidu pro zařízení Google Pixel se zaměřením na bezpečnost, soukromí a sandboxový režim.
 
 ## 💻 Mé nejoblíbenější editory a IDE:

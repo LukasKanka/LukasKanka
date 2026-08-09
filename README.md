@@ -13,8 +13,6 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 
 ## 🔍 Kde všude mě najdete:
 
-[NOSTR Protocol](https://jumble.social/users/npub12xzu8ejrl9cwpd034cqj5jtuztn4mxp3em2frckm9tk28kmy48vqr0u0yu)
-
 [Blog](https://lukaskanka.cz) můj blog
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)

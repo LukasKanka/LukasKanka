@@ -1,11 +1,9 @@
-
- ## Všechny mé aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě: **[Codeberg](https://codeberg.org/Kankys)**.
-___
-
 👋
 # 🛣️ Rozcestník 👨🏽‍💻 Lukáše Kaňky na tomto Git profilu
 
-Tech-libertarián a IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, 😈 FreeBSD, 🐧 Linux a open source. Do světa IT jsem vstoupil jako technická podpora, později jsem se dostal na pozici testera. Aktuálně se vzdělávám v JavaScriptu, HTML a CSS a pracuji pro společnost Kyndryl jako frontend vývojář na platformě SMART pro Českou spořitelnu.
+Tech-libertarián a IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, 😈 FreeBSD, 🐧 Linux a open source. Do světa IT jsem vstoupil přes technickou podporu a následně svou kariéru nasměroval do oblasti QA a testování softwaru. V současné době působím jako procesní designér (vývoj FE) ve společnosti Kyndryl na platformě Smart pro Českou spořitelnu, kde propojuji návrh procesů a tvorbu frontendových komponent s automatizovaným testováním v Playwrightu. Dlouhodobě preferuji open-source nástroje a aktivně se dále vzdělávám v moderním webovém vývoji.
+
+[Codeberg](https://codeberg.org/Kankys) Všechny mé další aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě Codeberg
 
 Hrdý člen spolku [VPSfree.cz](https://vpsfree.cz/)
 

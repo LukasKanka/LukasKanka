@@ -34,7 +34,7 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 
 ## 🚜 Mé projekty:
 * [👨‍💻 Osobní blog](https://lukaskanka.cz/index.html)
-* [🛡️ Rozcestník pro mé projekty, služby co spravuji a nabízím🛡️] - všechy mé projekty spravuji u spolku VPSfree.
+* [🛡️ Rozcestník pro mé projekty, služby co spravuji a nabízím🛡️](https://lukan.cz) - všechy mé projekty spravuji u spolku VPSfree.
 * [🧠 Kolekce aplikací 🦅 DOXA](https://doxa-notes.org/doxa.html) - aplikace DOXA pro práci s textem.
 * [🎸 Zažij numetal a grunge každý den, po celý rok. 💿](https://music.lukan.cz/) - Každý den jedno album.
 * [🇨🇿 Česká komunita EndeavourOS! 🇨🇿 ](https://endeavouros.cz/) - Web české komunity EndeavourOS Linux (se svolením tvůrců a vývojářů) [EndeavourOS](https://endeavouros.com/).

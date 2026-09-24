@@ -1,5 +1,5 @@
 👋
-# 🛣️ Rozcestník 👨🏽‍💻 Lukáše Kaňky na tomto Git profilu
+# 🛣️ Rozcestník 👨🏽‍💻 Lukáše Kaňky 
 
 Tech-libertarián a IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, 😈 FreeBSD, 🐧 Linux a open source. Do světa IT jsem vstoupil přes technickou podporu a následně svou kariéru nasměroval do oblasti QA a testování softwaru. V současné době působím jako procesní designér (vývoj FE) ve společnosti Kyndryl na platformě Smart pro Českou spořitelnu, kde propojuji návrh procesů a tvorbu frontendových komponent s automatizovaným testováním v Playwrightu. Dlouhodobě preferuji open-source nástroje a aktivně se dále vzdělávám v moderním webovém vývoji.
 
@@ -10,10 +10,11 @@ Hrdý člen spolku [VPSfree.cz](https://vpsfree.cz/)
 Uživatel 📱 [GrapheneOS](https://grapheneos.org/), [EndeavourOS](https://endeavouros.cz/index.php) a [Omarchy Linux](https://omarchy.org/)
 ## 🔍 Kde všude mě najdete:
 
-[Codeberg](https://codeberg.org/Kankys) všechny mé další aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě Codeberg
+[Codeberg](https://codeberg.org/Kankys) všechny mé další aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě Codeberg. Postupně vše migruji na [GitLukan](https://git.lukan.cz/kankys)
 
+[WEB](https://lukaskanka.cz) 
 
-[Blog](https://lukaskanka.cz) můj blog
+[Blog](https://lukan.cz)
 
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/)
 
@@ -35,8 +36,8 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/), [EndeavourOS](https://ende
 * [VPSfree.cz](https://vpsfree.cz/) členství ve spolku VPSfree kde si spravuji VPS.
 
 ## 🚜 Mé projekty:
-* [👨‍💻 Osobní blog](https://lukaskanka.cz/index.html)
-* [🛡️ Rozcestník pro mé projekty, služby co spravuji a nabízím🛡️](https://lukan.cz) - všechy mé projekty spravuji u spolku VPSfree.
+* [👨‍💻 Web](https://lukaskanka.cz/index.html)
+* [🛡️ Blog 🛡️](https://lukan.cz)
 * [🧠 Kolekce aplikací 🦅 DOXA](https://doxa-notes.org/doxa.html) - aplikace DOXA pro práci s textem.
 * [🎸 Zažij numetal a grunge každý den, po celý rok. 💿](https://music.lukan.cz/) - Každý den jedno album.
 * [🇨🇿 Česká komunita EndeavourOS! 🇨🇿 ](https://endeavouros.cz/) - Web české komunity EndeavourOS Linux (se svolením tvůrců a vývojářů) [EndeavourOS](https://endeavouros.com/).

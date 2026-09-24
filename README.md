@@ -3,13 +3,15 @@
 
 Tech-libertarián a IT nadšenec s pozitivním přístupem k životu a vášní pro technologie, 😈 FreeBSD, 🐧 Linux a open source. Do světa IT jsem vstoupil přes technickou podporu a následně svou kariéru nasměroval do oblasti QA a testování softwaru. V současné době působím jako procesní designér (vývoj FE) ve společnosti Kyndryl na platformě Smart pro Českou spořitelnu, kde propojuji návrh procesů a tvorbu frontendových komponent s automatizovaným testováním v Playwrightu. Dlouhodobě preferuji open-source nástroje a aktivně se dále vzdělávám v moderním webovém vývoji.
 
-[Codeberg](https://codeberg.org/Kankys) všechny mé další aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě Codeberg
+[GitLukan](https://git.lukan.cz/kankys) můj hlavní git profil, který si spravuji na platformě Gitea
 
 Hrdý člen spolku [VPSfree.cz](https://vpsfree.cz/)
 
-Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://endeavouros.cz/index.php).
-
+Uživatel 📱 [GrapheneOS](https://grapheneos.org/), [EndeavourOS](https://endeavouros.cz/index.php) a [Omarchy Linux](https://omarchy.org/)
 ## 🔍 Kde všude mě najdete:
+
+[Codeberg](https://codeberg.org/Kankys) všechny mé další aktuální projekty a na čem pracuji ve volném čase najdeš na open-source platformě Codeberg
+
 
 [Blog](https://lukaskanka.cz) můj blog
 
@@ -18,7 +20,7 @@ Uživatel 📱 [GrapheneOS](https://grapheneos.org/) a [EndeavourOS](https://end
 [Životopis](https://lukaskanka.cz/cv/lukaskanka.html)
 
 ## 🛠️ Na čem pracuji:
-1. 🐧 Lenovo ThinBook 14ADA --> --> [EndeavourOS](https://endeavouros.cz/)
+1. 🐧 Lenovo ThinBook 14ADA --> --> [Omarchy Linux](https://omarchy.org/)
 2. 📱 Google Pixel 8 --> [GrapheneOS](https://grapheneos.org/) - GrapheneOS – operační systém založený na Androidu pro zařízení Google Pixel se zaměřením na bezpečnost, soukromí a sandboxový režim.
 
 ## 💻 Mé nejoblíbenější editory a IDE:
